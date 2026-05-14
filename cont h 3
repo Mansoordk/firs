@@ -1,0 +1,12 @@
+ <br><br><hr>
+    <div>
+        <div class="f-img">
+            <img src="logo.png" height="80px" width="60px">
+        </div>
+       <div class="f-head">
+              <h id="f-h1">dankadu</h><br>
+              <h id="f-h2">business</h><br>
+              <h id="f-h3">ecosystem</h><br>
+              <h id="f-h4">solution for you</h>
+       </div>
+    </div>
