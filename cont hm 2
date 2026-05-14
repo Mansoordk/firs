@@ -1,0 +1,25 @@
+  <div class="rating">
+        <span class="star">★</span>
+        <span class="star">★</span>
+        <span class="star">★</span>
+        <span class="star">★</span>
+        <span class="star">★</span>
+     </div>
+    <div class="msg">
+        <h1>contact us</h1>
+        <div class="form">
+            <div class="info1">
+                <label for="fullname"></label>
+                <input type="text" placeholder="full name">
+            </div>
+            <div class="info1">
+                <label for="email"></label>
+                <input type="email" placeholder="email address">
+            </div>
+            <div id="info2">
+                <label for="message"></label>
+                <textarea placeholder="write a message"></textarea>
+            </div>
+            <button id="s-btn"><a href="#">submit</a></button>
+        </div>
+    </div>
