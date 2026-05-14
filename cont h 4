@@ -1,0 +1,6 @@
+<div>
+       <a href="https:www.facebook.com"> <img id="s-media" src="facebook.png" alt="" height="40px" width="40px"></a>
+       <a href="https:www.linkedIn.com"> <img id="s-media" src="lkd.jpg" alt="" height="40px" width="40px"></a>
+       <a href="www.twitter.com"> <img id="s-media" src="twitter.png" alt="" height="40px" width="40px"></a>
+       <a href="www.instagram.com"> <img id="s-media" src="ig.png" alt="" height="40px" width="40px"></a>
+    </div>
