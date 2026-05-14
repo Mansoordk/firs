@@ -1,0 +1,54 @@
+ <div class="bg1">
+        <div id="sub-bg1">
+            <p>to position people of arewa as the most innovative and enterprising africa</p><br>
+            <button id="btn1"><a href="#">become a member</a></button>
+        </div>
+        <div id="sub-bg2"></div>
+    </div>
+    <div class="mydiv">
+        <div id="mydiv1">
+            <h1 id="header">about us</h1>
+            <p>dandaku business ecosystem(DBE) is an innovative business platform that position to create job and wealth opportunities by solving the socio-economic related problems of our societies in an enterprising and sustainable ways</p>
+        </div><hr>
+        <div id="mydiv2">
+            <h1 id="header">our mission</h1>
+            <p>to breed excellent change entrepreneurs with strong self-motivation, determination and visionary leadership sprit that guarantees sustainable socio-economic development, peace and tranquility.</p>
+        </div>
+    </div>
+    <h1> our value proposition</h1>
+    <h3 id="subhead">socio-economic challenges<span>+</span></h3>
+    <div class="mydiv2">
+        <h3 id="subhead2"> solution over-view<span>_</span></h3>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempora repellendus nesciunt tempore ad expedita autem debitis, enim quibusdam ullam earum veniam voluptates id quam iste quidem animi ut, odit excepturi.</p>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium mollitia obcaecati repellat, magnam odio non ad dolor maiores cumque quidem illo ullam ex iure perferendis ratione eos eligendi veritatis voluptates.</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum, numquam adipisci deserunt sint magni consequatur, itaque dolore, nisi voluptatum repellat iste minus blanditiis? Atque hic ipsam tempora est, itaque labore?</p>
+    </div>
+    <h3 id="subhead3">key benefit<span>+</span></h3>
+    <div class="mydiv3"><p>How it works</p></div><br><br>
+    <div class="cdiv">
+        <div id="cdiv1"></div>
+        <div id="cdiv2"><p><span>dankadu business ecosystem</span> amet consectetur adipisicing elit. Tempora consectetur illum in blanditiis deserunt dignissimos eos vel, neque odit qui debitis beatae dolorem asperiores veniam quae repudiandae iste illo repellat! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur ratione harum reprehenderit dolorem praesentium a quisquam provident nisi deleniti exercitationem earum reiciendis, eius consequatur et distinctio natus obcaecati ab maxime.</p>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil molestiae sed dolores enim quasi explicabo quibusdam vero voluptates possimus nobis, nisi ex ducimus harum dicta illum. Corporis dolorum voluptatem culpa Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque soluta harum Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo neque, quo ducimus esse officia, similique sunt delectus perferendis voluptatum quibusdam officiis dolorem voluptatibus modi vitae eaque eveniet recusandae, impedit ea Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laudantium quis earum doloremque molestiae sint pariatur totam est, sed nam, ad ducimus aperiam cum.</p>
+    </div>
+    </div>
+    <div class="c2div">
+        <div id="c2div1"><p><span>dankadu business ecosystem</span> amet consectetur adipisicing elit. Tempora consectetur illum in blanditiis deserunt dignissimos eos vel, neque odit qui debitis beatae dolorem asperiores veniam quae repudiandae iste illo repellat! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur ratione harum reprehenderit dolorem praesentium a quisquam provident nisi deleniti exercitationem earum reiciendis, eius consequatur et distinctio natus obcaecati ab maxime.</p>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil molestiae sed dolores enim quasi explicabo quibusdam vero voluptates possimus nobis, nisi ex ducimus harum dicta illum. Corporis dolorum voluptatem culpa Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque soluta harum Lorem ipsum dolor sit, amet consectetur adipisicing elit. Harum, ut quo? Ab, porro reiciendis repudiandae dolor magnam quae, ullam officiis earum consectetur aperiam unde dolorem alias consequuntur consequatur, accusantium magni Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam quo repellat aut sed itaque esse doloremque illum sint voluptate. Non explicabo, illo ducim</p>
+     </div>
+     <div id="c2div2"></div>
+    </div><br><br>
+    <div class="c3div">
+        <div id="c3div1"></div>
+        <div id="c3div2"><p><span>dankadu business ecosystem</span> amet consectetur adipisicing elit. Tempora consectetur illum in blanditiis deserunt dignissimos eos vel, neque odit qui debitis beatae dolorem asperiores veniam quae repudiandae iste illo repellat! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur ratione harum reprehenderit dolorem praesentium a quisquam provident nisi deleniti exercitationem earum reiciendis, eius consequatur et distinctio natus obcaecati ab maxime.</p>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil molestiae sed dolores enim quasi explicabo quibusdam vero voluptates possimus nobis, nisi ex ducimus harum dicta illum. Corporis dolorum voluptatem culpa Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque soluta harum Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora numquam harum vero. Error nobis cum, sequi provident, quisquam impedit, libero iusto ducimus soluta deleniti dicta labore fugiat ipsum eius repellat Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta, odio sapiente voluptates repellendus quibusdam aliquid quae doloremque nostrum nobis quos mollitia in. Laborum voluptates error</p></div>
+    </div>
+    <div class="mydiv3"><p>Testimonial</p></div>
+    <h2>fatima musa</h2>
+    <div class="rate">
+        <div id="ld"><</div>
+        <div id="r-img"></div>
+        <div id="r-img2"></div>
+        <div id="r-img3"></div>
+        <div id="cmnt">contrary to the popular belief, Lorem Ipsum is not a simple random text.It has a roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-sydney college in virginia.</div>
+        <div id="gd">></div>
+    </div>
