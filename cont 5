@@ -1,0 +1,12 @@
+ <div id="sub">
+        <label for="subs"></label>
+        <input type="text" placeholder="subscibe to DBE news">
+        <img src="envelop.png" height="20px" width="20px">
+        <button><a href="#">subscribe</a></button>
+        <ul>
+            <li><a href="#">home</a></li>
+            <li><a href="#">contact us</a></li>
+            <li><a href="#">privacy policy</a></li>
+            <li><a href="#">search</a></li>
+        </ul>
+    </div>
